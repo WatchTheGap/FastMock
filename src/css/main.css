@@ -28,3 +28,7 @@ main {
 .icon4 {
   transform: rotate(135deg);
 }
+
+.art-holder {
+  text-align: center;
+}
