@@ -1,0 +1,30 @@
+section {
+  border: 5px solid blue;
+  margin: 0;
+}
+
+header, footer {
+  background-color: red;
+  height: 100px;
+  color: white;
+}
+
+main {
+  margin: 0;
+}
+
+.icon1 {
+  transform: rotate(-45deg);
+}
+
+.icon2 {
+  transform: rotate(-135deg);
+}
+
+.icon3 {
+  transform: rotate(45deg);
+}
+
+.icon4 {
+  transform: rotate(135deg);
+}
