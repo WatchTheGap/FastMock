@@ -1,5 +1,4 @@
 section {
-  border: 5px solid blue;
   margin: 0;
 }
 
@@ -31,4 +30,13 @@ main {
 
 .art-holder {
   text-align: center;
+}
+
+i {
+  margin: 1em 0;
+}
+
+i:hover {
+  color: red;
+  font-weight: bold;
 }
